@@ -6,8 +6,8 @@ state={
 	}
 	history={
 		victory_points = { 13383 5 }
-		owner = SOV
-		add_core_of = RUS
+		owner = DON
+		add_core_of = DON
 		buildings = {
 			infrastructure = 3
 		}
