@@ -4,13 +4,13 @@ state={
 	name="STATE_2634"
 
 	history={
-		owner = PEM
+		owner = ANU
 		add_core_of = SOV
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = PEM
+		add_core_of = ANU
 		victory_points = { 16961 5 }
 		victory_points = { 6753 2 }
 	}
